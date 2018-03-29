@@ -11,12 +11,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "subtree:setup": "git subtree add --prefix=build  git@github.com:alphara/VirtualSoftwareEngineer.git master",
     "subtree:pull": "git fetch git@github.com:alphara/VirtualSoftwareEngineer.git master && git subtree pull --prefix=build git@github.com:alphara/VirtualSoftwareEngineer.git master",
